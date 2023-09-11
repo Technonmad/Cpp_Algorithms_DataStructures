@@ -8,28 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5313156fd0849788",
+            "id": "d8111155a966cae9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Структуры данных/Массивы.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49a7047c68a23162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Алгоритмы/Алгоритмы.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -82,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 251.5
   },
   "right": {
     "id": "635741757c8a83a6",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Структуры данных/Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Структуры данных/Массивы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Структуры данных/Массивы.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +137,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5313156fd0849788",
+  "active": "d8111155a966cae9",
   "lastOpenFiles": [
-    "Структуры данных/Связные.md",
+    "Структуры данных/Связный список.md",
     "Структуры данных/Массивы.md",
     "Структуры данных/Смежные.md",
+    "Структуры данных/Связные.md",
     "Структуры данных/Структуры данных.md",
     "Структуры данных/Типы структур данных.md",
     "Untitled",
