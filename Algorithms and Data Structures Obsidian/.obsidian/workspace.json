@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "0525b01bc2593c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41b64badbab8afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5313156fd0849788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Структуры данных/Массивы.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49a7047c68a23162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы/Алгоритмы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "508f8006da2a4184",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c40544e4d4f5d71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d2c3d565791ba3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b87fc9b47ba48061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "842cdc90c869c433",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "635741757c8a83a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2277e60cbd4f15e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06ebff3ab6be175a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Структуры данных/Массивы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "693fc7f3b900b089",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Структуры данных/Массивы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29ea9b64129efd2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c182151fefd8a67",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Структуры данных/Массивы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5313156fd0849788",
+  "lastOpenFiles": [
+    "Структуры данных/Связные.md",
+    "Структуры данных/Массивы.md",
+    "Структуры данных/Смежные.md",
+    "Структуры данных/Структуры данных.md",
+    "Структуры данных/Типы структур данных.md",
+    "Untitled",
+    "Структуры данных",
+    "Алгоритмы/Свойства алгоритмов.md",
+    "Алгоритмы/Алгоритмы.md",
+    "titled.md",
+    "Алгоритмы"
+  ]
+}
