@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c41b64badbab8afc",
+        "id": "12a5da689747c0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "d8111155a966cae9",
+            "id": "ea2fa49ac0a7a04c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Структуры данных/Поиск в дереве.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Структуры данных/Поиск в дереве.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Структуры данных/Поиск в дереве.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Структуры данных/Поиск в дереве.md"
+              }
             }
           }
         ]
@@ -137,9 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8111155a966cae9",
+  "active": "ea2fa49ac0a7a04c",
   "lastOpenFiles": [
+    "Структуры данных/Поиск в дереве.md",
+    "Структуры данных/Двоичное дерево.md",
+    "Структуры данных/Словари.md",
+    "Структуры данных/Очередь.md",
     "Структуры данных/Связный список.md",
+    "Структуры данных/Стек.md",
     "Структуры данных/Массивы.md",
     "Структуры данных/Смежные.md",
     "Структуры данных/Связные.md",
